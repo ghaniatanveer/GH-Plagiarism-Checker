@@ -1,0 +1,16 @@
+node_modules/
+frontend/node_modules/
+backend/models/
+backend/corpus/*.pkl
+backend/__pycache__/
+*.pyc
+*.pyo
+*.so
+venv/
+env/
+dist/
+build/
+.DS_Store
+reports/
+.vscode/
+.idea/
